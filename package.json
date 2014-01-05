@@ -1,0 +1,17 @@
+{
+  "name": "zbackup",
+  "version": "0.1.0",
+  "description": "Back ups a folder to the cloud",
+  "author": "ziaxdk",
+  "license": "boo",
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc4",
+    "tingodb": "~0.1.18",
+    "azure": "~0.7.18",
+    "glob": "~3.2.7",
+    "q": "~0.9.7",
+    "async": "~0.2.9",
+    "socket.io": "~0.9.16",
+    "debug": "~0.7.4"
+  }
+}
